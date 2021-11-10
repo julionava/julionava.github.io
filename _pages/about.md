@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm an applied mathematician fascinated by the duality relationshipbetween applications and theory.
+I'm an applied mathematician fascinated by the duality relationship between applications and theory.
