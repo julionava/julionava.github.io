@@ -10,7 +10,7 @@ locale                   : "MX"
 title                    : "Julio Nava"
 title_separator          : "-"
 name                     : &name "Julio Nava"
-description              : &description "Master's student in Mathematical Sciences UNAM"
+description              : &description "Master's degree student in Mathematical Sciences UNAM"
 url                      : https://julionava.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "julionava/julionava.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Julio Nava"
   avatar           : "profile.png"
-  bio              : #"Your biography for the left-hand sidebar"
+  bio              : "Master's degree student in Mathematical Sciences UNAM"
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
