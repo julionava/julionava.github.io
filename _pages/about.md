@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-======
-
 I'm an applied mathematician fascinated by the duality relationshipbetween applications and theory.
