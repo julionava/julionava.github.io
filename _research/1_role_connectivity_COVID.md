@@ -2,7 +2,7 @@
 title: "<span style='font-size: 18px'> The role of connectivity on COVID-19 preventive approaches"
 collection: research
 permalink: /research/1_role_connectivity_COVID
-date: 2021-25-05
+date: 2021-05-25
 link: 'https://www.medrxiv.org/content/10.1101/2021.03.11.21253348v3'
 ---
 **Authors:** V. Miró Pina, J. Nava-Trejo, A. Tóbiás, E. Nzabarushimana, A. González-Casanova, González-Casanova.
